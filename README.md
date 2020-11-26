@@ -1,6 +1,8 @@
 # Frontend
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
+# Build status
+<img alt="logo" src="https://img.shields.io/badge/build-passing-green?logo=appveyor&style=for-the-badge">
 
 ## Development server
 
@@ -13,6 +15,12 @@ Run `ng generate component component-name` to generate a new component. You can 
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+
+# Landing Page
+![angular](./landing.png)
+
+# Responsive Page
+![angular](./responsive.png)
 
 ## Running unit tests
 
